@@ -1,4 +1,6 @@
 {
     "editor.formatOnPaste": true,
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.saveActions.organizeImports": true
 }
